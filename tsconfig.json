@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "moduleResolution": "node",
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "strictNullChecks": true,
+    "skipLibCheck": false,
+    "isolatedModules": true,
+    "outDir": "./dist"
+  },
+  "include": ["src"],
+  "exclude": ["examples"]
+}
